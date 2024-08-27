@@ -1,0 +1,230 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Lily found flowers with 18 petals and 24 petals. What is the HCF of both types of flowers?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "img":"./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "In the garden Lily saw a bench on which two numbers 12 and 18 were written. What is the HCF of these two numbers?",
+        "options": [
+            "6",
+            "8",
+            "15",
+            "25"
+        ],
+        "correct": 0,
+        "img":"./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "There are 24 garden gnomes and 32 birdhouses in the garden. Calculate the HCF to find the largest number of equal-sized groups she can arrange these objects into with no leftovers.",
+        "options": [
+            "10",
+            "8",
+            "9",
+            "12"
+        ],
+        "correct": 1,
+        "img":"./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Finn discovered 20 garden stones and 30 stepping stones in the garden. What is the HCF of these two types of stones?",
+        "options": [
+            "5",
+            "10",
+            "20",
+            "15"
+        ],
+        "correct": 1,
+        "img":"./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "In Finn's garden, he found 336 red roses and 54 white lilies. Calculate the HCF to determine the maximum number of bouquets he can create with an equal number of red roses and white lilies in each bouquet?",
+        "options": [
+            "5",
+            "8",
+            "6",
+            "10"
+        ],
+        "correct": 2,
+        "img":"./assests/images/5.jpg"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Lily has 65 rose bushes and 117 tulip plants. Calculate the highest common factor (HCF) of these two numbers.",
+        "options": [
+            "13",
+            "18",
+            "11",
+            "14"
+        ],
+        "correct": 0,
+        "img":"./assests/images/6.jpg"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "What is the HCF of 616 seeds and 32 leaves Lily discovered in the garden?",
+        "options": [
+            "16",
+            "12",
+            "6",
+            "8"
+        ],
+        "correct": 3,
+        "img":"./assests/images/7.jpg"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "In the magical garden, Lily and Finn found two types of flowers: one with 135 petals and the other with 225 petals. Calculate the HCF and tell how many petals will each group have?",
+        "options": [
+            "25",
+            "35",
+            "45",
+            "55"
+        ],
+        "correct": 2,
+        "img":"./assests/images/8.jpg"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Lily and Finn discovered two types of fruits in their garden: one type with 867 apples and another with 225 oranges. To distribute them evenly among their friends, they need to create the largest equal-sized groups possible. Calculate the HCF to tell how many fruits will each group contain?",
+        "options": [
+            "4",
+            "6",
+            "7",
+            "3"
+        ],
+        "correct": 3,
+        "img":"./assests/images/9.jpg"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Lily and Finn found yet another set of flowers. This time, one type had 189 petals and another had 350 petals. They need to group the flowers into the largest possible equal-sized groups. How many petals will each group have?",
+        "options": [
+            "7",
+            "17",
+            "27",
+            "37"
+        ],
+        "correct": 0,
+        "img":"./assests/images/10.jpg"
+    },
+    {
+        "questionNo": "Q11",
+        "question": "In another section of the garden, Lily and Finn found collectible cards, one type with 84 cards and another type with 105 cards. To sort their collection, they need to group the cards into the largest equal-sized sets possible. How many cards will each group contain?",
+        "options": [
+            "12",
+            "21",
+            "24",
+            "36"
+        ],
+        "correct": 1,
+        "img":"./assests/images/11.jpg"
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Lily and Finn encountered a pond with lily pads. They noticed that some lily pads had 196 petals and others had 38220 petals. They need to group the lily pads into the largest possible equal-sized groups. How many petals will each group have?",
+        "options": [
+            "176",
+            "196",
+            "186",
+            "166"
+        ],
+        "correct": 1,
+        "img":"./assests/images/12.jpg"
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Lily and Finn found a path lined with mystical flowers. Some flowers had 108 petals and others had 132 petals. To uncover a secret message, they must arrange the flowers into the largest equal-sized groups possible. How many petals will each group have?",
+        "options": [
+            "7",
+            "14",
+            "12",
+            "35"
+        ],
+        "correct": 2,
+        "img":"./assests/images/13.jpg"
+    },
+    {
+        "questionNo": "Q14",
+        "question": "In a secluded corner of the garden, Lily and Finn discovered garden tools, with one type having 450 shovels and another type having 1550 rakes. To organise their tools, they need to group them into the largest possible equal-sized sets. How many tools will each group contain?",
+        "options": [
+            "150",
+            "100",
+            "60",
+            "50"
+        ],
+        "correct": 3,
+        "img":"./assests/images/14.jpg"
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Near the enchanted waterfall, Lily and Finn discovered garden stones, with one type weighing 404 grams and another type weighing 606 grams. To arrange their collection, they need to group the stones into the largest equal-sized sets possible. How much will each group weigh?",
+        "options": [
+            "101 grams",
+            "202 grams",
+            "303 grams",
+            "404 grams"
+        ],
+        "correct": 1,
+        "img":"./assests/images/15.jpg"
+    },
+    {
+        "questionNo": "Q16",
+        "question": "Lily challenged Finn to calculate the HCF of 2960, 2280 and find the value of “?” shown below:",
+        "options": [
+            "2040",
+            "2050",
+            "3040",
+            "3050"
+        ],
+        "correct": 0,
+        "img":"./assests/images/16.jpg"
+    },
+    {
+        "questionNo": "Q17",
+        "question": "In a serene meadow of the magical garden, Lily and Finn discovered two types of sunflowers: one type with 603 petals and another with 1092 petals. They were calculating the HCF of the petals by the long division method. Find the number that will come in place of ‘?’",
+        "options": [
+            "214",
+            "114",
+            "113",
+            "213"
+        ],
+        "correct": 1,
+        "img":"./assests/images/17.jpg"
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Exploring a new section of the garden, Lily and Finn found flowers with 390 petals, 702 petals, and 468 petals. To reveal the hidden message, they must arrange these flowers into the largest possible equal-sized groups. How many petals will each group have?",
+        "options": [
+            "64",
+            "74",
+            "78",
+            "68"
+        ],
+        "correct": 2,
+        "img":"./assests/images/18.jpg"
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Lily and Finn found beds of flowers with 403 and 465 petals. To unlock the hidden message, they need to group the flowers into the largest possible equal-sized groups by finding the HCF of the petals. They missed one prime factor during their calculations. Can you help them in finding the missing number?",
+        "options": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "correct": 2,
+        "img":"./assests/images/19.jpg"
+    }
+]
